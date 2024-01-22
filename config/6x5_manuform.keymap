@@ -14,7 +14,7 @@
         compatible = "zmk,combos";
 
         cmd-shift-lbrace {
-            bindings = <&kp LS(LG(LEFT_BRACKET))>;
+            bindings = <&kp RS(RG(LEFT_BRACKET))>;
             key-positions = <24 45>;
             layers = <1>;
         };
